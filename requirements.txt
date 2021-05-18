@@ -1,0 +1,14 @@
+# D:\AnuragHalder\Work\scraping\Imdb.py: 13
+beautifulsoup4 == 4.9.1
+
+# D:\AnuragHalder\Work\scraping\Imdb.py: 19
+pandas == 1.1.1
+
+# D:\AnuragHalder\Work\scraping\Imdb.py: 6
+ping_cmd == 1.5
+
+# D:\AnuragHalder\Work\scraping\Imdb.py: 8,15,18
+requests == 2.24.0
+
+# D:\AnuragHalder\Work\scraping\Imdb.py: 1,2,3
+selenium == 3.141.0
