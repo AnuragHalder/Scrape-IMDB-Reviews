@@ -5,14 +5,12 @@ import socket
 import os
 from ping_cmd import host
 import zipfile
-import requests
 from datetime import *
 import time
 import subprocess
 import argparse
 from bs4 import BeautifulSoup
 import re
-import requests
 from collections import defaultdict
 import datetime
 import requests
